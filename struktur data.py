@@ -8,3 +8,6 @@ for key in biodata:
   
 my_id = (1,2, 3, 4, 5)
 print(my_id)
+
+my_set = {1,2,3,4,4,5,5}
+print(my_set)
