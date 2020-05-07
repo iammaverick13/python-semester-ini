@@ -5,3 +5,7 @@ for i in my_list:
 biodata = {'name':'imam sodik', 'age':19, 'life':True}
 for key in biodata:
   print(key+' : '+str(biodata[key]))
+  
+list_id = (1, 3, 5,7, 4, 48, 3, 6)
+print(type(list_id))
+print(list_id)
